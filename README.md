@@ -1,15 +1,13 @@
-'''php
+
 ***
-'''
 #####钟配良
 ######<https://github.com/zhongpeiliang>
 
+***
 #####涂显锋
 ######<https://github.com/thinkerlonely>
 
-'''objectc
 ***
-'''
 #####杨杰-Alvin
 ######<https://github.com/JayAlvin>
 
@@ -22,9 +20,7 @@
 #####李攀
 ######<https://github.com/Lee740>
 
-'''java
 ***
-'''
 #####邹世亮
 ######<https://github.com/zoushiliang>
 
@@ -34,11 +30,13 @@
 #####江允坚
 ######<https://github.com/jiangyunjian>
 
-'''js
 ***
-'''
 #####许荣夏
 ######<https://github.com/xurongxia>
 
 #####徐势世
 ######<https://github.com/ShiShiXu>
+
+***
+#####刘志坚
+######<https://github.com/ChiJanLau>
