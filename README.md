@@ -1,29 +1,29 @@
 ##钟配良
-####zhongpeiliang
+####https://github.com/zhongpeiliang
 
 ##涂显锋
-####thinkerlonely
+####https://github.com/thinkerlonely
 
 ##杨杰-Alvin
-####JayAlvin
+####https://github.com/JayAlvin
 
 ##胡昆
-####kinsuft173
+####https://github.com/kinsuft173
 
 ##李金佑
-####LiJinyou
+####https://github.com/LiJinyou
 
 ##李攀
-####Lee740
+####https://github.com/Lee740
 
 ##邹世亮
-####zoushiliang
+####https://github.com/zoushiliang
 
 ##蔡天鸿
-####GitKings
+####https://github.com/GitKings
 
 ##江允坚
-####jiangyunjian
+####https://github.com/jiangyunjian
 
 ##徐势世
-####ShiShiXu
+####https://github.com/ShiShiXu
