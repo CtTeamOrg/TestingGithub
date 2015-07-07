@@ -1,6 +1,6 @@
 
 ***
-#####钟配良
+#####钟佩良
 ######<https://github.com/zhongpeiliang>
 
 ***
